@@ -15,7 +15,7 @@ Tantangan terbesarnya buat saya itu waktu harus ngatur environment variables (se
 ## 3. Bagaimana rencana Anda mengatasi tantangan tersebut?
 Buat ngatasin masalah itu, saya mastiin koneksi internet lagi stabil dan bersih-bersih file di laptop dulu biar penyimpanannya cukup dan nggak bikin sistem lag pas install Android Studio. Kalau soal environment variables, saya pelan-pelan ngecek lagi tutorial atau dokumentasinya, mastiin alamat foldernya udah disalin dengan benar ke settingan sistem Windows, terus dites berkali-kali di terminal sampai beneran berhasil terbaca.
 
-# Analisis Perbandingan Platform Pengembangan Perangkat Lunak
+# Pertemuan 1 Langkah 4
 
 | Aspek | Web | Desktop | Mobile |
 | :--- | :--- | :--- | :--- |
